@@ -1,4 +1,4 @@
-NASM-animation-on-OS-X-with-GLUT-and-OpenGL
+NASM animation on OS X with GLUT and OpenGL
 ===========================================
 
 For compile use ./run.sh
