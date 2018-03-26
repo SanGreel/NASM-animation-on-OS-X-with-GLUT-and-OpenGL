@@ -76,8 +76,8 @@ segment .text
   global _main
 
     _main:
-            lea     ecx, [esp+4]                ;load adress of argc in stack to ecx
-            lea     edx, [esp+8]                ;load adress of argv in stack to edx
+            lea     ecx, [esp+4]                ;load address of argc in stack to ecx
+            lea     edx, [esp+8]                ;load address of argv in stack to edx
 
             push    ebp                         ; setup the frame
             mov     ebp, esp
