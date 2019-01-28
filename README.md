@@ -1,9 +1,7 @@
 NASM animation on OS X with GLUT and OpenGL
 ===========================================
 
-For compile use ./run.sh
-
-Or write in terminal :
+For compilation use run.sh or run in the terminal:
 
 ```sh
 nasm -f macho work.asm -o work.o
