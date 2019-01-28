@@ -10,6 +10,6 @@ gcc -framework GLUT -framework OpenGL -m32 -o work.out work.o
 
 How it should looks like:
 
-![NASM animation on OS X with GLUT and OpenGL](https://andrewkurochkin.com/media/img/post/4/158.png)
+![NASM animation on OS X with GLUT and OpenGL](https://andrewkurochkin.com/media/img/post/4/159.png)
 
 The small article related to this repository - https://andrewkurochkin.com/portfolio/assembler-animation-on-mac-glut-and-opengl.
