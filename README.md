@@ -7,3 +7,6 @@ Or write in terminal :
 nasm -f macho work.asm -o work.o
 gcc -framework GLUT -framework OpenGL -m32 -o work.out work.o
 ./work.out
+
+
+The small article related to this repository - https://andrewkurochkin.com/portfolio/assembler-animation-on-mac-glut-and-opengl.
